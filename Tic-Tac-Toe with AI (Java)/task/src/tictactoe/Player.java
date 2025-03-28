@@ -2,7 +2,7 @@ package tictactoe;
 
 import java.util.Random;
 
-public class Player {
+public abstract class Player {
     private String sign;
 
     public Player(String sign) {

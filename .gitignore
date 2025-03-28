@@ -1,0 +1,62 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Tic-Tac-Toe with AI (Java)/*
+!/Tic-Tac-Toe with AI (Java)/task/
+/Tic-Tac-Toe with AI (Java)/task/*
+!/Tic-Tac-Toe with AI (Java)/task/src
+
+# Project exclude paths
+/Topics/Basic literals  numbers, strings and characters/Save the day/out/
+/Topics/Basic literals  numbers, strings and characters/Save the day/out/production/classes/
+/Topics/Break and continue. Branching/The integer barrier/out/
+/Topics/Break and continue. Branching/The integer barrier/out/production/classes/
+/Topics/Characters/Find the next Unicode character/out/
+/Topics/Characters/Find the next Unicode character/out/production/classes/
+/Topics/Declaring functionality with interfaces/Polymorphic area calculator for shapes/out/
+/Topics/Declaring functionality with interfaces/Polymorphic area calculator for shapes/out/production/classes/
+/Topics/Declaring methods/Calculating factorials/out/
+/Topics/Declaring methods/Calculating factorials/out/production/classes/
+/Topics/Declaring methods/Raise to the power/out/
+/Topics/Declaring methods/Raise to the power/out/production/classes/
+/Topics/For loop/Numbers divisible by six/out/
+/Topics/For loop/Numbers divisible by six/out/production/classes/
+/Topics/Functional decomposition/Checking divisibility and printing appropriate strings/out/
+/Topics/Functional decomposition/Checking divisibility and printing appropriate strings/out/production/classes/
+/Topics/Functional decomposition/Stop, yield, go  Traffic conductor's waltz/out/
+/Topics/Functional decomposition/Stop, yield, go  Traffic conductor's waltz/out/production/classes/
+/Topics/Hierarchy of exceptions/Base class/out/
+/Topics/Hierarchy of exceptions/Base class/out/production/classes/
+/Topics/Integer types and operations/Desks/out/
+/Topics/Integer types and operations/Desks/out/production/classes/
+/Topics/Introduction to Java/Basics/out/
+/Topics/Introduction to Java/Basics/out/production/classes/
+/Topics/Iterating over arrays/Alphabetical order/out/
+/Topics/Iterating over arrays/Alphabetical order/out/production/classes/
+/Topics/Multidimensional array/Find the corners/out/
+/Topics/Multidimensional array/Find the corners/out/production/classes/
+/Topics/Multiple conditions  switch/Floor-space of the room/out/
+/Topics/Multiple conditions  switch/Floor-space of the room/out/production/classes/
+/Topics/Printing data/We need to learn Java/out/
+/Topics/Printing data/We need to learn Java/out/production/classes/
+/Topics/Reading user's input with Scanner/Rectangle whisperer's precision quest/out/
+/Topics/Reading user's input with Scanner/Rectangle whisperer's precision quest/out/production/classes/
+/Topics/Recursion/Fix the method to print strings in the reverse order/out/
+/Topics/Recursion/Fix the method to print strings in the reverse order/out/production/classes/
+/Topics/Recursion/N-th power/out/
+/Topics/Recursion/N-th power/out/production/classes/
+/Topics/Static members/Detail manufacturing/out/
+/Topics/Static members/Detail manufacturing/out/production/classes/
+/Topics/String/Extracting a substring/out/
+/Topics/String/Extracting a substring/out/production/classes/
+/Topics/Type casting/Rounding down a halved float value to an integer/out/
+/Topics/Type casting/Rounding down a halved float value to an integer/out/production/classes/
